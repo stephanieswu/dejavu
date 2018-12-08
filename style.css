@@ -1,0 +1,51 @@
+*{
+  background-color: black;
+  font-family: Andale Mono, monospace;
+}
+
+.speaker{
+  text-align: center;
+  padding: 125px;
+
+}
+
+h1{
+  
+  font-size: 70px;
+  color:#fff;
+
+}
+
+ul{
+  list-style-type: none;
+  font-size: 25px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+ul li{
+  padding-top: 10px;
+
+ 
+}
+
+a{
+  color: white;
+
+}
+
+a:hover { 
+    background-color: silver;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    color: gray;
+    text-align: center;
+
+
+}
+
