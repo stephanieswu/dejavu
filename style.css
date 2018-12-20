@@ -10,7 +10,7 @@
 }
 
 h1{
-  
+
   font-size: 70px;
   color:#fff;
 
@@ -26,7 +26,7 @@ ul{
 ul li{
   padding-top: 10px;
 
- 
+
 }
 
 a{
@@ -34,8 +34,10 @@ a{
 
 }
 
-a:hover { 
-    background-color: silver;
+a:hover {
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
 }
 
 .footer{
@@ -45,7 +47,8 @@ a:hover {
     width: 100%;
     color: gray;
     text-align: center;
-
-
 }
 
+#website{
+  color: gray;
+}
